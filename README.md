@@ -1,204 +1,93 @@
-<h1 align="center">🎵 Meta Music Bot 🎵</h1>
+<h1 align="center">『 ♫ 𝐊ᴏᴍᴀʟ ✘ 𝐌ᴜꜱɪᴄ ♫ 』</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Meta Music Logo" width="600" height="150">
+  <img src="https://graph.org/file/d01ee1681b9ac73cdb6bf-c362803186858be64a.jpg" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/TeamMeta/MetaMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamMeta/MetaMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamMeta/MetaMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamMeta/MetaMusic?style=for-the-badge&color=green" alt="GitHub license">
-</p>
-
-<h2 align="center">Delivering Superior Music Experience to Telegram</h2>
-
----
-
-### 🛠 Fix for YouTube Blocking VPS IPs
-
-Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
-
-1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NexGenSpam) to get the necessary script.
-2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
-3. **Fork the Repository**: Fork this repository to your GitHub account.
-4. **Add Cookies**: Paste the generated cookies into the `cookies` folder in your forked repository.
-5. **Deploy the Bot**: Continue with the setup instructions as outlined above.
-
-This process will allow you to bypass the YouTube restrictions and ensure smooth operation of the bot.
-
----
-
-## 🎵 Using the API for Audio Streaming
-
-If you do not want to deal with YouTube restrictions, you can rely on our API for audio streaming. The API allows you to fetch audio directly without needing cookies, making the process simpler and more reliable.
-
----
-
-### 🔑 How to Get an API Key
-
-You can now generate and manage your API keys through our official dashboard — no more Telegram DMs required!
-
-[![API Dashboard](https://img.shields.io/badge/Visit-Dashboard-black?style=for-the-badge&logo=vercel)](https://panel.thequickearn.xyz)
-[![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/+DXGe6UE90y01NDVl)
-[![Contact Rahul](https://img.shields.io/badge/DM-@RahulTC-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/ItzRahul)
-
-#### 🛠️ Steps to Get Started:
-
-1. **Sign Up**: Visit the dashboard and create an account with your email.
-2. **Free Plan**: All new users receive a **Free Plan** with:
-   - 🔁 1,000 daily requests
-   - 🗓️ Valid for 30 days
-3. **Upgrade Plans**: Choose a higher daily limit plan below (INR ₹ / month):
-
-| Plan Name          | Daily Requests | Monthly Price  |
-|--------------------|----------------|----------------|
-| Free Plan          | 1,000          | ₹0             |
-| Basic Plan         | 5,000          | ₹50            |
-| Standard Plan      | 10,000         | ₹50            |
-| Pro Plan           | 15,000         | ₹75            |
-| Entriprise Plan    | 20,000         | ₹100           |
-| Mega Plan          | 50,000         | ₹250           |
-
-4. **Billing & Renewal**:
-   - Manage everything through the dashboard
-   - Extend key validity or upgrade instantly
-5. **Integration**:
-   - Copy your API key and add it to your `.env` or config file:
-     ```env
-     API_KEY=your-api-key-here
-     ```
-
----
-
-### 📌 Important Notes About API Usage
-
-- 🔄 **Daily Reset**: Request limits reset at midnight (IST) every day.
-- 🎵 **Audio-Only API**: Video support requires cookies (see YouTube section above).
-- 💬 **Community Support**: For API-specific help, join the [API Community Group](https://t.me/+DXGe6UE90y01NDVl)
-
----
-
-### 🌟 Features
-
-- 🎵 **Multiple Sources:** Play music from various platforms.
-- 📃 **Queue System:** Line up your favorite songs.
-- 🔀 **Advanced Controls:** Shuffle, repeat, and more.
-- 🎛 **Customizable Settings:** From equalizer to normalization.
-- 📢 **Crystal Clear Audio:** High-quality playback.
-- 🎚 **Volume Mastery:** Adjust to your preferred loudness.
-
----
-
-## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/MetaMusic)
-
----
-
-### 🔧 Quick Setup
-
-1. **Upgrade & Update:**
-   ```bash
-   sudo apt-get update && sudo apt-get upgrade -y
-   ```
-
-2. **Install Required Packages:**
-   ```bash
-   sudo apt-get install python3-pip ffmpeg -y
-   ```
-3. **Setting up PIP**
-   ```bash
-   sudo pip3 install -U pip
-   ```
-4. **Installing Node**
-   ```bash
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
-   ```
-5. **Clone the Repository**
-   ```bash
-   git clone https://github.com/CyberPixelPro/MetaMusic && cd MetaMusic
-   ```
-6. **Install Requirements**
-   ```bash
-   pip3 install -U -r requirements.txt
-   ```
-7. **Create .env  with sample.env**
-   ```bash
-   cp sample.env .env
-   ```
-   - Edit .env with your vars
-8. **Editing Vars:**
-   ```bash
-   vi .env
-   ```
-   - Edit .env with your values.
-   - Press `I` button on keyboard to start editing.
-   - Press `Ctrl + C`  once you are done with editing vars and type `:wq` to save .env or `:qa` to exit editing.
-9. **Installing tmux**
-    ```bash
-    sudo apt install tmux -y && tmux
-    ```
-10. **Run the Bot**
-    ```bash
-    bash start
-    ```
-
----
-
-### 🛠 Commands & Usage
-
-The Meta Music Bot offers a range of commands to enhance your music listening experience on Telegram:
-
-| Command                 | Description                                 |
-|-------------------------|---------------------------------------------|
-| `/play <song name>`     | Play the requested song.                    |
-| `/pause`                | Pause the currently playing song.           |
-| `/resume`               | Resume the paused song.                     |
-| `/skip`                 | Move to the next song in the queue.         |
-| `/stop`                 | Stop the bot and clear the queue.           |
-| `/queue`                | Display the list of songs in the queue.     |
-
-For a full list of commands, use `/help` in [telegram](https://t.me/MetaBeatzBot).
-
----
-
-### 🔄 Updates & Support
-
-Stay updated with the latest features and improvements to Meta Music Bot:
-
-<p align="center">
-  <a href="https://telegram.me/NexGenSpam">
-    <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="https://telegram.me/NexGenSpam">
-    <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
-  </a>
+  <a href="https://t.me/KomalMusicUpdate"><img src="https://img.shields.io/badge/📢 Updates-KomalMusicUpdate-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/Komal_Music_Support"><img src="https://img.shields.io/badge/🛠 Support-Komal_Music_Support-brightgreen?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/INNOCENT_FUCKER"><img src="https://img.shields.io/badge/👑 Owner-INNOCENT_FUCKER-purple?style=for-the-badge&logo=telegram"></a>
 </p>
 
 ---
 
-### 🤝 Contributing
-
-We welcome contributions to the Meta Music Bot project. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch with a meaningful name.
-3. Make your changes and commit them with a descriptive commit message.
-4. Open a pull request against our `main` branch.
-5. Our team will review your changes and provide feedback.
-
-For more details, reach out us on telegram.
+> **⚠️ ᴛʜɪs ɪsɴ'ᴛ ᴊᴜsᴛ ᴀ ʙᴏᴛ – ɪᴛ'ꜱ ᴀ ꜱʏꜱᴛᴇᴍ ꜰᴏʀ ᴅᴏᴍɪɴᴀᴛɪᴏɴ.**  
+> **𝐊ᴏᴍᴀʟ ✘ 𝐌ᴜꜱɪᴄ** ɪꜱ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴜꜱᴛᴏᴍ ᴄᴏᴅᴇ, ʙʟᴀᴢɪɴɢ ꜱᴘᴇᴇᴅ, ᴀɴᴅ ᴇʟɪᴛᴇ ꜱʏɴᴄ ᴀᴜᴅɪᴏ.  
+> ❌ ɴᴏ ᴀᴅꜱ • ɴᴏ ᴘʀᴏᴍᴏ • ᴢᴇʀᴏ ᴅᴏᴡɴᴛɪᴍᴇ
 
 ---
 
-### 📜 License
+## 🎧 Fᴇᴀᴛᴜʀᴇ Pᴏᴡᴇʀs
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+✔ 𝟐𝟒/𝟕 ᴀᴜᴅɪᴏ ꜱᴛʀᴇᴀᴍɪɴɢ — ꜱᴍᴏᴏᴛʜ, ɴᴏ ʟᴀɢ  
+✔ ᴘʀᴇᴍɪᴜᴍ ʙᴀꜱꜱ, ʜᴅ ꜱᴏᴜɴᴅ — ʟɪᴋᴇ ʙʀᴇᴀᴛʜɪɴɢ ᴍᴜꜱɪᴄ  
+✔ sᴜᴘᴘᴏʀᴛꜱ: Yᴏᴜᴛᴜʙᴇ • Sᴘᴏᴛɪꜰʏ • JɪᴏSᴀᴀᴠɴ • Fɪʟᴇꜱ  
+✔ ʀᴇᴀʟ-ᴛɪᴍᴇ ᴄᴏɴᴛʀᴏʟꜱ — /ᴘʟᴀʏ, /ꜱᴋɪᴘ, /ꜱᴛᴏᴘ  
+✔ ᴄʟᴇᴀɴ ᴜɪ, ᴄᴜꜱᴛᴏᴍ ᴛʜᴇᴍᴇꜱ, ɴᴏ ᴄʟᴜᴛᴛᴇʀ
 
 ---
 
-### 🙏 Acknowledgements
+## ⚙️ Qᴜɪᴄᴋ Sᴇᴛᴜᴘ
 
-Thanks to all the contributors, supporters, and users of the Meta Music Bot. Your feedback and support keep us going!
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
-- **Special Thanks** to [SPiDER 🇮🇳](https://github.com/Surendra9123) for invaluable assistance in resolving the IP ban issue.
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3-pip ffmpeg -y
+sudo pip3 install -U pip
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
+
+git clone https://github.com/Probotsvip/ZeeMusic && cd ZeeMusic
+pip3 install -U -r requirements.txt
+
+cp sample.env .env
+vi .env  # Edit with your Token, Mongo URI, etc.
+
+sudo apt install tmux -y && tmux
+bash start
+
+
+---
+
+🔗 Oꜰꜰɪᴄɪᴀʟ Lɪɴᴋꜱ
+
+🔘 Section	🔗 Link
+
+👑 Owner	@INNOCENT_FUCKER
+📢 Updates	@KomalMusicUpdate
+💬 Support	@Komal_Music_Support
+➕ Add Bot	@KomalMusicBot
+
+
+
+---
+
+🔰 Sᴘᴇᴄɪᴀʟ Mᴇꜱꜱᴀɢᴇ ꜰᴏʀ Gʀᴏᴜᴘs
+
+> ● ᴄᴏᴍᴘʟᴇᴛᴇ ʙᴏᴛ ɪꜱ ʙᴜɪʟᴛ ꜰʀᴏᴍ ꜱᴄʀᴀᴛᴄʜ
+● ɴᴏ ʀᴇᴘᴏ ʀᴇ-ᴜᴘ • ɴᴏ ᴄᴏᴘʏ-ᴘᴀꜱᴛᴇ ꜱᴛᴜꜰꜰ
+● ʙʀᴀɴᴅᴇᴅ ꜰᴏʀ ʟᴇᴀɢᴜᴇ-ʟᴇᴠᴇʟ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ
+
+
+
+
+---
+
+🛠 Cᴏᴍᴍᴀɴᴅs ʏᴏᴜ Cᴀɴ Uꜱᴇ
+
+🔹 Command	🔸 Description
+
+/play song	Play audio instantly
+/pause	Pause current music
+/resume	Resume paused song
+/skip	Skip to next in queue
+/stop	Stop and clear the session
+/queue	Show what’s in the queue
+
+
+
+---
+
+🧠 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍ ᴄᴏʀᴇ, ᴇᴍʙʀᴀᴄᴇᴅ ʙʏ ᴍᴜꜱɪᴄ ʟᴏᴠᴇʀꜱ.
+
+> ❌ Nᴏ ᴛᴏ ᴄʀᴀꜱʜᴇꜱ • ✅ Yᴇꜱ ᴛᴏ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ • 💯 Tʀᴜᴇ ᴄᴏɴᴛʀᴏʟ
