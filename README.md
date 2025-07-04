@@ -50,7 +50,7 @@
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Probotsvip/MetaMusic)
 
 ---
 
@@ -75,7 +75,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/Probotsvip/Metausic && cd MetaMusic 
    ```
 6. **Install Requirements**
    ```bash
