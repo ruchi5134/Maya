@@ -28,66 +28,43 @@
 
 ---
 
-## ⚙️ Qᴜɪᴄᴋ Sᴇᴛᴜᴘ
+---
 
-```bash
-sudo apt update && sudo apt upgrade -y
-sudo apt install python3-pip ffmpeg -y
-sudo pip3 install -U pip
+## 🔗 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐋𝐈𝐍𝐊𝐒
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
-
-git clone https://github.com/Probotsvip/ZeeMusic && cd ZeeMusic
-pip3 install -U -r requirements.txt
-
-cp sample.env .env
-vi .env  # Edit with your Token, Mongo URI, etc.
-
-sudo apt install tmux -y && tmux
-bash start
-
+| 🧾 Section    | 🔗 Link                           |
+|--------------|-----------------------------------|
+| 👑 Owner      | [@INNOCENT_FUCKER](https://t.me/INNOCENT_FUCKER) |
+| 📢 Updates    | [@KomalMusicUpdate](https://t.me/KomalMusicUpdate) |
+| 💬 Support    | [@Komal_Music_Support](https://t.me/Komal_Music_Support) |
+| ➕ Add Bot    | [@KomalMusicBot](https://t.me/KomalMusicBot) |
 
 ---
 
-🔗 Oꜰꜰɪᴄɪᴀʟ Lɪɴᴋꜱ
+## 🎯 𝐒𝐏𝐄𝐂𝐈𝐀𝐋 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐅𝐎𝐑 𝐆𝐑𝐎𝐔𝐏𝐒
 
-🔘 Section	🔗 Link
-
-👑 Owner	@INNOCENT_FUCKER
-📢 Updates	@KomalMusicUpdate
-💬 Support	@Komal_Music_Support
-➕ Add Bot	@KomalMusicBot
-
-
+> 🧠 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗖𝗼𝗱𝗲 – 𝗕𝘂𝗶𝗹𝘁 𝗳𝗿𝗼𝗺 𝘀𝗰𝗿𝗮𝘁𝗰𝗵  
+> 🛡 𝗡𝗼 𝗰𝗼𝗽𝘆-𝗽𝗮𝘀𝘁𝗲 𝗿𝗲𝗽𝗼 𝗿𝗲𝘂𝘀𝗲  
+> ⚡ 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗳𝗼𝗿 𝗵𝗶𝗴𝗵-𝗱𝗲𝗺𝗮𝗻𝗱 𝗴𝗿𝗼𝘂𝗽𝘀
 
 ---
 
-🔰 Sᴘᴇᴄɪᴀʟ Mᴇꜱꜱᴀɢᴇ ꜰᴏʀ Gʀᴏᴜᴘs
+## 🛠️ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐒𝐄𝐓𝐒
 
-> ● ᴄᴏᴍᴘʟᴇᴛᴇ ʙᴏᴛ ɪꜱ ʙᴜɪʟᴛ ꜰʀᴏᴍ ꜱᴄʀᴀᴛᴄʜ
-● ɴᴏ ʀᴇᴘᴏ ʀᴇ-ᴜᴘ • ɴᴏ ᴄᴏᴘʏ-ᴘᴀꜱᴛᴇ ꜱᴛᴜꜰꜰ
-● ʙʀᴀɴᴅᴇᴅ ꜰᴏʀ ʟᴇᴀɢᴜᴇ-ʟᴇᴠᴇʟ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ
-
-
-
-
----
-
-🛠 Cᴏᴍᴍᴀɴᴅs ʏᴏᴜ Cᴀɴ Uꜱᴇ
-
-🔹 Command	🔸 Description
-
-/play song	Play audio instantly
-/pause	Pause current music
-/resume	Resume paused song
-/skip	Skip to next in queue
-/stop	Stop and clear the session
-/queue	Show what’s in the queue
-
-
+| 🎧 Command         | 💬 What It Does                     |
+|--------------------|-------------------------------------|
+| `/play <song>`     | Stream audio instantly              |
+| `/pause`           | Pause the currently playing track   |
+| `/resume`          | Resume paused audio                 |
+| `/skip`            | Skip to next track in queue         |
+| `/stop`            | Stop stream & clear current queue   |
+| `/queue`           | View upcoming tracks                |
 
 ---
 
-🧠 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍ ᴄᴏʀᴇ, ᴇᴍʙʀᴀᴄᴇᴅ ʙʏ ᴍᴜꜱɪᴄ ʟᴏᴠᴇʀꜱ.
+## 🧠 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐋𝐎𝐕𝐄, 𝐁𝐔𝐈𝐋𝐓 𝐅𝐎𝐑 𝐋𝐄𝐆𝐄𝐍𝐃𝐒
 
-> ❌ Nᴏ ᴛᴏ ᴄʀᴀꜱʜᴇꜱ • ✅ Yᴇꜱ ᴛᴏ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ • 💯 Tʀᴜᴇ ᴄᴏɴᴛʀᴏʟ
+✨ Crafted with 💖 for the elite Telegram music lovers  
+🚫 **No crashes** • ✅ **Ultra performance** • 🎯 **Live control**
+
+---
