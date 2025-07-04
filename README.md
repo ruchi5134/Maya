@@ -1,7 +1,7 @@
 <h1 align="center">『 ♫ 𝐊ᴏᴍᴀʟ ✘ 𝐌ᴜꜱɪᴄ ♫ 』</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/d01ee1681b9ac73cdb6bf-c362803186858be64a.jpg" width="600"/>
+  <img src="https://graph.org/file/4fb91ef843b1868b739d1-f618247d1124f942eb.jpg" width="600"/>
 </p>
 
 <p align="center">
